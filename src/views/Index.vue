@@ -125,7 +125,7 @@
       </el-main>
     </el-container>
 
-    <div align="center">文明吐槽 bug反馈:hidoublex@gmail.com</div>
+    <div align="center">文明吐槽 bug反馈:hidoublex@gmail.com  <a href="https://github.com/zjsix/hefei-rubbish-company">github</a></div>
     <div align="center"><a href="http://122.114.222.162/wechat1.jpg" target="__blank">群聊(我不是群主)</a></div>
 
     <el-dialog
